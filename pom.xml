@@ -10,6 +10,8 @@
 
     <properties>
         <lucene.version>4.9.0</lucene.version>
+        <maven.compiler.source>1.5</maven.compiler.source>
+        <maven.compiler.target>1.5</maven.compiler.target>
     </properties>
 
     <dependencies>
